@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "base_track": "WHO ARE U ? 2022",
+  "base_artist": "DJ RYOW",
+  "createdAt": "2026-03-31T08:55:58.992007Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Who Are U",
+      "artist": "Fredo Santana",
+      "has_synced": true,
+      "path": "select/01_Who_Are_U_Fredo_Santana.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Who Are U",
+      "artist": "Chipmunk",
+      "has_synced": true,
+      "path": "select/02_Who_Are_U_Chipmunk.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Who are U?",
+      "artist": "KAQRIYOTERROR",
+      "has_synced": true,
+      "path": "select/03_Who_are_U_KAQRIYOTERROR.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Who Are U",
+      "artist": "KivG",
+      "has_synced": false,
+      "path": "select/04_Who_Are_U_KivG.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Who Are U (Feat. Superbee)",
+      "artist": "Ravi (라비)",
+      "has_synced": true,
+      "path": "select/05_Who_Are_U_(Feat._Superbee)_Ravi_(라비).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Who Are U ? 2015 (feat. TOKONA-X, Anarchy & 般若)",
+      "artist": "DJ RYOW",
+      "has_synced": true,
+      "path": "select/06_Who_Are_U___2015_(feat._TOKONA-X,_Anarchy_&_般若)_DJ_RYOW.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Who Are U?",
+      "artist": "David Fonseca",
+      "has_synced": false,
+      "path": "select/07_Who_Are_U_David_Fonseca.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "who are u when nobody's watching",
+      "artist": "Lux Holm",
+      "has_synced": true,
+      "path": "select/08_who_are_u_when_nobody's_watching_Lux_Holm.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "WHO ARE U ? 2018",
+      "artist": "DJ RYOW",
+      "has_synced": true,
+      "path": "select/09_WHO_ARE_U___2018_DJ_RYOW.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "1 - Who are u?",
+      "artist": "David Fonseca",
+      "has_synced": false,
+      "path": "select/10_1_-_Who_are_u_David_Fonseca.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Who Are U???",
+      "artist": "三軒しらべ",
+      "has_synced": false,
+      "path": "select/11_Who_Are_U_三軒しらべ.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Who Are U (Nouvelle Vague remix)",
+      "artist": "Olga Kouklaki feat. Tim Keegan",
+      "has_synced": false,
+      "path": "select/12_Who_Are_U_(Nouvelle_Vague_remix)_Olga_Kouklaki_feat._Tim_Keegan.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Who Are U",
+      "artist": "Olga Kouklaki",
+      "has_synced": false,
+      "path": "select/13_Who_Are_U_Olga_Kouklaki.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Who Are U (Featuring Tim Keegan)",
+      "artist": "Olga Kouklaki",
+      "has_synced": false,
+      "path": "select/14_Who_Are_U_(Featuring_Tim_Keegan)_Olga_Kouklaki.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Who Are You When I'm Not Looking",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/15_Who_Are_You_When_I'm_Not_Looking_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "We People Who Are Darker Than Blue",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/16_We_People_Who_Are_Darker_Than_Blue_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "We People Who Are Darker Than Blue (Curtis Mayfield)",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/17_We_People_Who_Are_Darker_Than_Blue_(Curtis_Mayfield)_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Who Are You",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/18_Who_Are_You_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Who Are You Now?",
+      "artist": "Olivia Newton-John",
+      "has_synced": false,
+      "path": "select/19_Who_Are_You_Now_Olivia_Newton-John.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Who Are You",
+      "artist": "RAIGN",
+      "has_synced": true,
+      "path": "select/20_Who_Are_You_RAIGN.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Who Are You",
+      "artist": "Svrcina",
+      "has_synced": true,
+      "path": "select/21_Who_Are_You_Svrcina.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Who Are You (Russ Macklin Remix)",
+      "artist": "Svrcina",
+      "has_synced": true,
+      "path": "select/22_Who_Are_You_(Russ_Macklin_Remix)_Svrcina.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Who Are You Talking To?",
+      "artist": "The Naked and Famous",
+      "has_synced": false,
+      "path": "select/23_Who_Are_You_Talking_To_The_Naked_and_Famous.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Who Are You Tonight?",
+      "artist": "Dreamhour",
+      "has_synced": true,
+      "path": "select/24_Who_Are_You_Tonight_Dreamhour.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "We The People Who Are Darker Than Blue",
+      "artist": "Curtis Mayfield",
+      "has_synced": true,
+      "path": "select/25_We_The_People_Who_Are_Darker_Than_Blue_Curtis_Mayfield.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "We the People Who Are Darker Than Blue (Live)",
+      "artist": "Curtis Mayfield",
+      "has_synced": false,
+      "path": "select/26_We_the_People_Who_Are_Darker_Than_Blue_(Live)_Curtis_Mayfield.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Who Are You",
+      "artist": "C2C feat. Olivier Daysoul",
+      "has_synced": true,
+      "path": "select/27_Who_Are_You_C2C_feat._Olivier_Daysoul.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Who Are You (Feat. Olivier Daysoul)",
+      "artist": "C2C",
+      "has_synced": true,
+      "path": "select/28_Who_Are_You_(Feat._Olivier_Daysoul)_C2C.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Who Are You?",
+      "artist": "Squeeze",
+      "has_synced": false,
+      "path": "select/29_Who_Are_You_Squeeze.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WHO ARE U ? feat. TOKONA-X",
+      "artist": "DJ RYOW",
+      "has_synced": false,
+      "path": "select/pl_01_WHO_ARE_U___feat._TOKONA-X_DJ_RYOW.txt"
+    }
+  ]
+}
